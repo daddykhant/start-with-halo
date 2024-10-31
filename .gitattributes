@@ -1,0 +1,5 @@
+# Enforce LF for all JavaScript files
+*.js text eol=lf
+
+# Handle node_modules specifically, if needed
+node_modules/**/* -text
