@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Vercel configurations that might be generated during deployment
+.vercel/
+vercel.json
+
+# Ignore specific API-related files if needed
+api/node_modules/
+
+# macOS system files
+.DS_Store
